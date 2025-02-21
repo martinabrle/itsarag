@@ -6,3 +6,4 @@
 challenges/challenge7/ingestion
 challenges/challenge4/ingestion
 __pycache__
+.DS_Store
